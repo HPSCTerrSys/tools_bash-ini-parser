@@ -1,5 +1,5 @@
 #
-# based on http://theoldschooldevops.com/2008/02/09/bash-ini-parser/
+# based on https://ajdiaz.wordpress.com/2008/02/09/bash-ini-parser/
 #
 
 PREFIX="cfg_section_"
